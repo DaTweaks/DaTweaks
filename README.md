@@ -24,7 +24,6 @@
 ## 🧰Tools🧰
 * Rider (C# IDE)
 * Visual Studio (C/C++/C# IDE)
-* My right hand (JK)
 
 ## 📞Where to contact me📞
 * Email: David@hornemark.se
