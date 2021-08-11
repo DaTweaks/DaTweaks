@@ -28,3 +28,4 @@
 ## 📞Where to contact me📞
 * Email: David@hornemark.se
 * Discord: DaTweaks#3343
+* [Linkedin](https://www.linkedin.com/in/david-hornemark-46475b218/)
