@@ -2,6 +2,7 @@
 ![My Stats](https://github-readme-stats.vercel.app/api?username=DaTweaks&show_icons=true&theme=calm)
 
 ## 🛠Current Projects🛠
+* Mafia-Simulator -- CURRENT
 * Sailaway Games -- CURRENT
 
 ## 🛠Recent Projects🛠
