@@ -2,8 +2,8 @@
 ![My Stats](https://github-readme-stats.vercel.app/api?username=DaTweaks&show_icons=true&theme=calm)
 
 ## 🛠Current Projects🛠
-* Mafia-Simulator -- CURRENT
-* Sailaway Games -- CURRENT
+* Mafia-Simulator (C# .NET Console Application Game) -- CURRENT 
+* Sailaway Games (Unity C# Game) -- CURRENT
 
 ## 🛠Recent Projects🛠
 * Punchman (C# Game) -- [Released](https://github.com/olchyk98/punchman/releases/tag/1.0)
