@@ -3,7 +3,6 @@
 
 ## 🛠Current Projects🛠
 * Mafia-Simulator (C# .NET Console Application Game) -- CURRENT 
-* Sailaway Games (Unity C# Game) -- CURRENT
 
 ## 🛠Recent Projects🛠
 * Punchman (C# Game) -- [Released](https://github.com/olchyk98/punchman/releases/tag/1.0)
