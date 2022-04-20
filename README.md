@@ -9,7 +9,7 @@
 * Punchman (C# Game) -- [Released](https://github.com/olchyk98/punchman/releases/tag/1.0)
 
 ## Languages
-* C# - Beginner
+* C# - Proefficient
 * Java - Beginner
 
 ---
