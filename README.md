@@ -11,6 +11,7 @@
 ## Languages
 * C# - Proefficient
 * Java - Beginner
+* SQL - Beginner
 
 ---
 
@@ -21,10 +22,12 @@
 ## 🏗Frameworks☁
 * .NET
 * Unity
+* Microsoft Azure
 
 ## 🧰Tools🧰
 * Rider (C# IDE)
 * Visual Studio (C# IDE)
+* DataGrip (SQL IDE)
 
 ## 📞Where to contact me📞
 * Email: David@hornemark.se
