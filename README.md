@@ -28,6 +28,7 @@
 * Rider (C# IDE)
 * Visual Studio (C# IDE)
 * DataGrip (SQL IDE)
+* SSMS *SQL Server Management Studio* (SQL IDE)
 
 ## 📞Where to contact me📞
 * Email: David@hornemark.se
