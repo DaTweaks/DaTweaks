@@ -3,6 +3,7 @@
 
 ## 🛠Current Projects🛠
 * Mafia-Simulator (C# .NET Console Application Game) -- CURRENT 
+* TheDrillSergeant (C# DiscordNET Bot) -- CURRENT
 * SailawayGames (C# Unity Game) -- ON HOLD
 
 ## 🛠Recent Projects🛠
