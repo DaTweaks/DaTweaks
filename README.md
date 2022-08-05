@@ -8,7 +8,7 @@
 
 ## 🛠Recent Projects🛠
 * Punchman (C# Game) -- [Released](https://github.com/olchyk98/punchman/releases/tag/1.0)
-* Mafia-Simulator (C# .NET Console Application Game) -- [Public](https://github.com/DaTweaks/Mafia-Simulator)
+* Mafia-Simulator (C# .NET Console Application Game) -- [Released](https://github.com/DaTweaks/Mafia-Simulator)
 
 ## Languages
 * C# - Proefficient
