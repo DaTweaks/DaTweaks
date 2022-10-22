@@ -2,9 +2,8 @@
 ![My Stats](https://github-readme-stats.vercel.app/api?username=DaTweaks&show_icons=true&theme=calm)
 
 ## 🛠Current Projects🛠
-* Mafia-Simulator (C# .NET Console Application Game) -- CURRENT 
-* TheDrillSergeant (C# DiscordNET Bot) -- CURRENT
-* SailawayGames (C# Unity Game) -- ON HOLD
+* TheDrillSergeant (C# DiscordNET Bot) -- ON HOLD
+* SailawayGames (C# Unity Game) -- CURRENT
 
 ## 🛠Recent Projects🛠
 * Punchman (C# Game) -- [Released](https://github.com/olchyk98/punchman/releases/tag/1.0)
