@@ -14,6 +14,7 @@
 * C# - Proefficient
 * Java - Beginner
 * SQL - Beginner
+* C++ - Beginner
 
 ---
 
