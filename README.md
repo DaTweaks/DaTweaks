@@ -2,6 +2,7 @@
 ![My Stats](https://github-readme-stats.vercel.app/api?username=DaTweaks&show_icons=true&theme=calm)
 
 ## 🛠Current Projects🛠
+* UnnamedTextBasedGame (C++ ConsoleApp) -- CURRENT
 * TheDrillSergeant (C# DiscordNET Bot) -- ON HOLD
 * SailawayGames (C# Unity Game) -- CURRENT
 
