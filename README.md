@@ -63,3 +63,6 @@ Discord: DaTweaks#3343
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
+## 🌐 Andra språk 🌐
+* [SWE](https://github.com/DaTweaks/DaTweaks/blob/main/SWE_README.md)
