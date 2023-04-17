@@ -4,8 +4,6 @@
   Mitt namn är David! Också känt som DaTweaks!
 </h1>
 
----
-
 ### :fire: Mina Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DaTweaks&theme=dark&background=000000&locale=sv)](https://git.io/streak-stats)
@@ -64,5 +62,5 @@ Discord: DaTweaks#3343
   </a>
 </div>
 
-## 🌐 Andra språk 🌐
+## 🌐Andra språk🌐
 * [ENG](https://github.com/DaTweaks/DaTweaks/tree/main#readme)
