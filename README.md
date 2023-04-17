@@ -64,5 +64,5 @@ Discord: DaTweaks#3343
   </a>
 </div>
 
-## 🌐 Andra språk 🌐
+## 🌐Change language🌐
 * [SWE](https://github.com/DaTweaks/DaTweaks/blob/main/SWE_README.md)
