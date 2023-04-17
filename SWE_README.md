@@ -15,12 +15,12 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
 
 
-## 🛠 Nuvarande Projekt 🛠
+## 🛠Nuvarande Projekt🛠
 * UnnamedTextBasedGame (C++ ConsoleApp) -- NUVARANDE
 * TheDrillSergeant (C# DiscordNET Bot) -- Vänteläge
 * SailawayGames (C# Unity Game) -- NUVARANDE
 
-## 🛠Recent Projects🛠
+## 🛠Förra Projekt🛠
 * Punchman (C# Game) -- [Utsläppt](https://github.com/olchyk98/punchman/releases/tag/1.0)
 * Mafia-Simulator (C# .NET Console Application Game) -- [Utsläppt](https://github.com/DaTweaks/Mafia-Simulator)
 
@@ -32,9 +32,9 @@
 
 ---
 
-* Swedish - Modersmål
-* English - Flytande
-* German - Nybörjare
+* Svenska - Modersmål
+* Engelska - Flytande
+* Tyska - Nybörjare
 
 ## 🏗Frameworks☁
 <div>
