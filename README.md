@@ -36,9 +36,9 @@
 
 ## 🏗Frameworks☁
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt= "Unity" width="50" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".NET" alt= ".NET" width="50" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt= "Azure" width="50" height="40"/>
+  <img src="https://companieslogo.com/img/orig/U.D-7a606e31.png?t=1634728034" title="Unity" alt= "Unity" width="47" height="53"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".NET" alt= ".NET" width="47" height="53"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt= "Azure" width="47" height="53"/>
 </div>
 
 ## 🧰Tools🧰
