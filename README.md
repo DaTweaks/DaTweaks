@@ -49,16 +49,19 @@
 * SSMS *SQL Server Management Studio* (SQL IDE)
 
 ## 📞Where to contact me📞
-Email: David@hornemark.se
 
 Discord: DaTweaks#3343
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/david-hornemark-46475b218">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://github.com/DaTweaks/DaTweaks/blob/main/Icons/linkedin.png" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/DaTweaks">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://github.com/DaTweaks/DaTweaks/blob/main/Icons/twitter.png" alt="Twitter Badge"/>
+  </a>
+    </a>
+  <a href="david@hornemark.se">
+    <img src="https://github.com/DaTweaks/DaTweaks/blob/main/Icons/e-mail.png" alt="E-Mail Badge"/>
   </a>
 </div>
 
