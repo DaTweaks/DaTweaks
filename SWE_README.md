@@ -52,8 +52,6 @@
 
 E-mail: david@hornemark.se
 
-Discord: DaTweaks#3343
-
 <div id="badges">
   <a href="https://www.linkedin.com/in/david-hornemark-46475b218">
     <img src="https://github.com/DaTweaks/DaTweaks/blob/main/Icons/linkedin.png" alt="LinkedIn Badge"/>
