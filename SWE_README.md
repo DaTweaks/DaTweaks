@@ -50,6 +50,8 @@
 
 ## 📞Vart du kan kontakta mig📞
 
+E-mail: david@hornemark.se
+
 Discord: DaTweaks#3343
 
 <div id="badges">
@@ -58,10 +60,6 @@ Discord: DaTweaks#3343
   </a>
   <a href="https://twitter.com/DaTweaks">
     <img src="https://github.com/DaTweaks/DaTweaks/blob/main/Icons/twitter.png" alt="Twitter Badge"/>
-  </a>
-    </a>
-  <a href="david@hornemark.se">
-    <img src="https://github.com/DaTweaks/DaTweaks/blob/main/Icons/e-mail.png" alt="E-Mail Badge"/>
   </a>
 </div>
 
