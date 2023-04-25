@@ -61,6 +61,10 @@ Discord: DaTweaks#3343
   <a href="https://twitter.com/DaTweaks">
     <img src="https://github.com/DaTweaks/DaTweaks/blob/main/Icons/twitter.png" alt="Twitter Badge"/>
   </a>
+    </a>
+  <a href="https://discord.com/users/376772163161686037">
+    <img src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" alt="Discord Badge" height=50 width=50/>
+  </a>
 </div>
 
 ## 🌐Andra språk🌐
