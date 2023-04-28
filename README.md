@@ -15,7 +15,7 @@
 
 ## 🛠Current Projects🛠
 * UnnamedTextBasedGame (C++ ConsoleApp) -- CURRENT
-* TheDrillSergeant (C# DiscordNET Bot) -- ON HOLD
+* StabsNissen (C# DiscordNET Bot) -- ON HOLD
 * SailawayGames (C# Unity Game) -- CURRENT
 
 ## 🛠Recent Projects🛠
