@@ -67,7 +67,7 @@ E-mail: david@hornemark.se
 
 ### 🛠Vad jag gör just nu🛠
 
-<a href ="https://discord.com/users/754965470888722484"><img align="left" src="https://lanyard-profile-readme.vercel.app/api/376772163161686037?bg=121212" width="418"></a>
+<a href ="https://discord.com/users/376772163161686037"><img align="left" src="https://lanyard-profile-readme.vercel.app/api/376772163161686037?bg=121212" width="418"></a>
 
 <br><br><br><br><br><br><br><br><br>
 
