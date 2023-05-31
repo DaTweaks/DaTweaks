@@ -16,7 +16,6 @@
 ## 🛠Current Projects🛠
 * UnnamedTextBasedGame (C++ ConsoleApp) -- CURRENT
 * StabsNissen (C# DiscordNET Bot) -- ON HOLD
-* SailawayGames (C# Unity Game) -- CURRENT
 
 ## 🛠Recent Projects🛠
 * Punchman (C# Game) -- [Released](https://github.com/olchyk98/punchman/releases/tag/1.0)
