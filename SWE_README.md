@@ -50,8 +50,6 @@
 
 ## 📞Vart du kan kontakta mig📞
 
-E-mail: david@hornemark.se
-
 <div id="badges">
   <a href="https://www.linkedin.com/in/david-hornemark-46475b218">
     <img src="https://github.com/DaTweaks/DaTweaks/blob/main/Icons/linkedin.png" alt="LinkedIn Badge"/>
