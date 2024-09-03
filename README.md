@@ -14,7 +14,7 @@
 
 
 ## 🛠Current Projects🛠
-* SAF (Unreal engine game) -- CURRENT
+* SAF (Unreal engine game) -- ON HOLD
 * UnnamedTextBasedGame (C++ ConsoleApp) -- ON HOLD
 * StabsNissen (C# DiscordNET Bot) -- ON HOLD
 
@@ -45,6 +45,7 @@
 ## 🧰Tools🧰
 
 * Rider (C# IDE)
+* Intellij (Java IDE)
 * Visual Studio (C# IDE)
 * DataGrip (SQL IDE)
 * SSMS *SQL Server Management Studio* (SQL IDE)
