@@ -17,6 +17,7 @@
 * SAF (Unreal engine game) -- ON HOLD
 * UnnamedTextBasedGame (C++ ConsoleApp) -- ON HOLD
 * StabsNissen (C# DiscordNET Bot) -- ON HOLD
+* S-DART (C# Desktop application) -- CURRENT
 
 ## 🛠Recent Projects🛠
 * Punchman (C# Game) -- [Released](https://github.com/olchyk98/punchman/releases/tag/1.0)
