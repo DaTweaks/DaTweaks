@@ -27,7 +27,7 @@
 ## Languages
 * C# - Proefficient
 * C++ - Confident
-* Java - Beginner
+* Java - Confident
 * SQL - Beginner
 
 ---
