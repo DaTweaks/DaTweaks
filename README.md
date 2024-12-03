@@ -11,6 +11,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaTweaks&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=kakbar&style=for-the-badge&color=blue" alt=""></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=DaTweaks&style=for-the-badge&color=blue" alt=""></p>
 
 
 ## 🛠Current Projects🛠
