@@ -10,8 +10,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaTweaks&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=kakbar&style=for-the-badge&color=blue" alt=""></p>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=DaTweaks&style=for-the-badge&color=blue" alt=""></p>
+<!-- Due to me being really stupid i used the wrong username of some person that is named kakbar, idk who it is but their user is just empty. So i'm basically moving what my views are there to what my username is. <p align="left"><img src="https://komarev.com/ghpvc/?username=kakbar&style=for-the-badge&color=blue" alt=""></p> It was at like 120,250 when i last looked at it, so i'm setting it as that.-->
+<p align="left"><img src="https://komarev.com/ghpvc/?username=DaTweaks&base=120250&style=for-the-badge&color=blue" alt=""></p>
 
 
 ## 🛠Current Projects🛠
