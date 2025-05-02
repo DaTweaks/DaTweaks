@@ -15,9 +15,7 @@
 
 
 ## 🛠Current Projects🛠
-* SAF (Unreal engine game) -- ON HOLD
 * UnnamedTextBasedGame (C++ ConsoleApp) -- ON HOLD
-* StabsNissen (C# DiscordNET Bot) -- ON HOLD
 * S-DART (C# Desktop application) -- CURRENT
 
 ## 🛠Recent Projects🛠
