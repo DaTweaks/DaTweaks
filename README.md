@@ -1,7 +1,7 @@
 <h1>
   Hello! 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  My names's David! Also known as DaTweaks!
+  My name's David! Also known as DaTweaks!
 </h1>
 
 ### :fire: My Stats :
