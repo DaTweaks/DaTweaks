@@ -22,6 +22,7 @@
 * Punchman (C# Game) -- [Released](https://github.com/olchyk98/punchman/releases/tag/1.0)
 * Mafia-Simulator (C# .NET Console Application Game) -- [Released](https://github.com/DaTweaks/Mafia-Simulator)
 * AudioData (C# .NET Console string to Audio applictaion) -- [Released](https://github.com/DaTweaks/AudioData)
+* ParentalPWNER (C# .NET Console) -- [Released](https://github.com/DaTweaks/ParentalPWNER)
 
 ## Languages
 * C# - Proefficient
